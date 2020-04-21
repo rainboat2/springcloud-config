@@ -14,7 +14,7 @@ mybatis:
 eureka:
   client:
     service-url:
-      defaultZone: /http://eureka1:7001/eureka, http://eureka2:7002/eureka, http://eureka3:7003/eureka
+      defaultZone: http://eureka1:7001/eureka, http://eureka2:7002/eureka, http://eureka3:7003/eureka
   instance:
     instance-id: p2
     prefer-ip-address: true
