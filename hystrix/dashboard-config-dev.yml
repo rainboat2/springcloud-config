@@ -2,4 +2,4 @@ spring:
   application:
     name: dashboard
 server:
-  port: 9001
+  port: 9011
