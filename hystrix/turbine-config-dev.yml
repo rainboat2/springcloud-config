@@ -10,6 +10,6 @@ eureka:
 turbine:
   instanceUrlSuffix:
     default: /hystrix.stream
-  app-config-list: provider, consumer
+  app-config: provider
   cluster-name-expression: "'default'"
   combine-host-port: true
