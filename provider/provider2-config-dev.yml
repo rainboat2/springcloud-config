@@ -18,3 +18,11 @@ eureka:
   instance:
     instance-id: p2
     prefer-ip-address: true
+
+info:
+  app:
+    name: provider
+  company:
+    name: neusoft
+  author:
+    name: QYZ
